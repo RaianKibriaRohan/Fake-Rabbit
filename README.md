@@ -1,6 +1,8 @@
-# 🐰 Fake Rabbit – Universal OSINT & Decryption Toolkit
+# 🐰 Fake Rabbit
 
-**Fake Rabbit** is a multi-functional command-line tool designed for cybersecurity research, CTF practice, digital forensics, and language translation. It provides several utilities including message decryption, steganography, EXIF metadata analysis, reverse geolocation, and text translation—all packed into a single CLI interface.
+# Still in developing phase
+
+**Fake Rabbit** is a multi-functional command-line tool designed for cybersecurity research, CTF practice, digital forensics and many more. It provides several utilities including message decryption, steganography, EXIF metadata analysis, reverse geolocation all packed into a single CLI interface.
 
 > ⚠️ **Disclaimer**  
 > This project is intended for **ethical, educational, and research purposes only**. The author does not support or condone the use of this tool for malicious activities.

@@ -1,0 +1,22 @@
+```bash
+# pyfiglet: Used for generating ASCII art banners
+pyfiglet
+
+# pycryptodome: Provides cryptographic functions for decryption (AES, XOR, etc.)
+pycryptodome
+
+# googletrans==4.0.0-rc1: Used for translating text via Google Translate API
+googletrans==4.0.0-rc1
+
+# stegano: Used for extracting hidden messages from images using LSB steganography
+stegano
+
+# Pillow: Python Imaging Library (PIL) fork, used for image processing tasks
+Pillow
+
+# exifread: Used for reading EXIF metadata from images
+exifread
+
+# geopy: Used for geocoding and reverse geocoding (converting GPS coordinates to place names)
+geopy
+```
